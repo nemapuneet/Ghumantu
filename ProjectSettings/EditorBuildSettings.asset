@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/splashscreen.unity
+    guid: 9b321c97d43b51845addd5f0aea211c0
+  - enabled: 1
+    path: Assets/register.unity
+    guid: 1ab11bdc802704e4b8ef7024a9e37a81
+  - enabled: 1
+    path: Assets/login.unity
+    guid: e62065057d9e755429ab2ae4a97db0ec
+  - enabled: 1
+    path: Assets/mainmenu.unity
+    guid: 0bdcca2cd9fde3f4faddde780c9488e2
+  - enabled: 1
+    path: Assets/startexplore.unity
+    guid: 49952214b320516418e8f52c72e8e0c4
+  - enabled: 1
+    path: Assets/knowrajasthan.unity
+    guid: 75501182d56cdb14693b1a2257b49a96
+  - enabled: 1
+    path: Assets/gowithghumantu.unity
+    guid: a9bf26e608aa7bd4bbebc64f3b735374
+  - enabled: 1
+    path: Assets/knorajasthanpopup.unity
+    guid: 63187f23ecb6abf469c9c512ffcc7545
+  - enabled: 1
+    path: Assets/gowithghumantupopup.unity
+    guid: 180a077dc1e6f11459bd034eb15ac7fc
+  - enabled: 1
+    path: Assets/emptyscene.unity
+    guid: 7a9deed3485109b458af8fb0915cec76
+  - enabled: 1
+    path: Assets/success.unity
+    guid: e2331b79b29e2624b987e9f0267a8244
+  - enabled: 1
+    path: Assets/knowrajasthan/21.unity
+    guid: ebaec5b23af9a0443917c8ae1c9421ff
+  - enabled: 1
+    path: Assets/knowrajasthan/22.unity
+    guid: 7cf80ef79ffb8624e8a4d6ff6bd9d1e4
+  - enabled: 1
+    path: Assets/knowrajasthan/23.unity
+    guid: 95a326eccb9f58641bd1e049fa6edcfb
+  - enabled: 1
+    path: Assets/knowrajasthan/11.unity
+    guid: 2528ef0e901c0584da25ede35105bc1d
+  - enabled: 1
+    path: Assets/knowrajasthan/12.unity
+    guid: 392702226b2d9b5429c8cb42f720be99
+  - enabled: 1
+    path: Assets/knowrajasthan/13.unity
+    guid: bfa9552eaca9c104a98e874b5c89eafa
+  - enabled: 1
+    path: Assets/knowrajasthan/31.unity
+    guid: 052d9ea5bf1f8fd409db9f870654e5e6
+  - enabled: 1
+    path: Assets/knowrajasthan/32.unity
+    guid: ecd381a0d22a3994888904d4a5cc36d7
+  - enabled: 1
+    path: Assets/knowrajasthan/33.unity
+    guid: 7173d9daa2ec7f344aaab2e698454ed3
+  - enabled: 1
+    path: Assets/knowrajasthan/41.unity
+    guid: b5ef6e91b0ad66d48af44f84f3897ad8
+  - enabled: 1
+    path: Assets/knowrajasthan/42.unity
+    guid: 08bd6ee1fea93734988f49fdb1422895
+  - enabled: 1
+    path: Assets/knowrajasthan/43.unity
+    guid: b0d9d61c0eaba744ab22cec29a46c829
+  - enabled: 1
+    path: Assets/gowithghumantu/111.unity
+    guid: f50aac9eb3d15984abf46a2ab94a255e
+  - enabled: 1
+    path: Assets/gowithghumantu/112.unity
+    guid: 77df12b3c7f48f34a92455306fe94655
+  - enabled: 1
+    path: Assets/gowithghumantu/113.unity
+    guid: 6dffae20690d21349ae47da297322f3b
+  - enabled: 1
+    path: Assets/gowithghumantu/211.unity
+    guid: 96773021f52fc164699d7afcbcf10cd3
+  - enabled: 1
+    path: Assets/gowithghumantu/212.unity
+    guid: 429dd4a5f41ea724ca4231b8c0223636
+  - enabled: 1
+    path: Assets/gowithghumantu/213.unity
+    guid: e76cc71c296c7424aad36684f452286f
+  - enabled: 1
+    path: Assets/gowithghumantu/311.unity
+    guid: 9cbbaedd90a385142ba7c515603f8920
+  - enabled: 1
+    path: Assets/gowithghumantu/312.unity
+    guid: d4c67a2397048e3479db996cfba3a5d8
+  - enabled: 1
+    path: Assets/gowithghumantu/313.unity
+    guid: 584e60f730ab0f1419812e29ef8f718b
+  - enabled: 1
+    path: Assets/gowithghumantu/321.unity
+    guid: e923ffcea7253ce4492e3ad11b47e1f5
+  - enabled: 1
+    path: Assets/gowithghumantu/322.unity
+    guid: 364f37f90439f324a9b194e292ce8dc6
+  - enabled: 1
+    path: Assets/gowithghumantu/323.unity
+    guid: eeb032fad295b554b8fa74b853907d16
+  - enabled: 1
+    path: Assets/gowithghumantu/411.unity
+    guid: e89d7e6215d1f62479cdc1588a27fe8d
+  - enabled: 1
+    path: Assets/gowithghumantu/412.unity
+    guid: 7d6f8106cf107ee439d5f79680d6854d
+  - enabled: 1
+    path: Assets/gowithghumantu/413.unity
+    guid: 20b1ae05fba4e1b4a8a3a05af45c301b
+  - enabled: 1
+    path: Assets/gowithghumantu/421.unity
+    guid: fe42825929773904985e805a112f2371
+  - enabled: 1
+    path: Assets/gowithghumantu/422.unity
+    guid: d9f2ef1d53f7364499ae827db79dc831
+  - enabled: 1
+    path: Assets/gowithghumantu/423.unity
+    guid: 8a446f46556a3ce468e65adacc7e9a8f
