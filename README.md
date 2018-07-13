@@ -7,4 +7,4 @@ Above Application consists of following modules :
 3. There is also another option for help in case of emergency. This module helps tourist to ask for help by just one click. It will notify to nearest help station.
 
 Note: 
-Above File has Asset and Library folder compressed.
+Above Repository has Asset and Library folder compressed.
